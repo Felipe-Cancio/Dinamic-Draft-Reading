@@ -1,0 +1,13 @@
+train: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Model-YOLO-V2\train\images
+val: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Model-YOLO-V2\valid\images
+test: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Model-YOLO-V2\test\images
+
+nc: 1
+names: ['Ship Draft Marks']
+
+roboflow:
+  workspace: cancio-workspace
+  project: aquadepth
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cancio-workspace/aquadepth/dataset/2
