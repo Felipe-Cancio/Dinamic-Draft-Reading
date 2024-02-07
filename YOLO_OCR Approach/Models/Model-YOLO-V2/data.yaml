@@ -1,9 +1,9 @@
-train: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Model-YOLO-V2\train\images
-val: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Model-YOLO-V2\valid\images
-test: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Model-YOLO-V2\test\images
+train: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Dinamic-Draft-Reading\YOLO_OCR Approach\Models\Model-YOLO-V2\train\images
+val: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Dinamic-Draft-Reading\YOLO_OCR Approach\Models\Model-YOLO-V2\valid\images
+test: C:\Users\canci\Documents\II Hackathon Softex-IFMA (AQUADEPTH)\Dinamic-Draft-Reading\YOLO_OCR Approach\Models\Model-YOLO-V2\test\images
 
 nc: 1
-names: ['Ship Draft Marks']
+names: ['DM']
 
 roboflow:
   workspace: cancio-workspace
